@@ -8,4 +8,3 @@ I have a strong background in backend development and experience using Vue.js fo
 
 I am well-suited for fast-moving teams that need a full-stack developer with strong soft skills and experience in DevOps.
 
-You can shoot me an email at vlad+github@alexeyev.me
