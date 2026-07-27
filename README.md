@@ -1,8 +1,26 @@
-### Hi, I'm Vladislav Alexeyev (@vlaim) 
+### Hi, I'm Vladislav Alexeyev (@vlaim) 👋
 
-As a result-oriented software engineer, I can help you run an MVP or develop complex digital products such as  **web applications, APIs, e-commerce systems, and CRMs.**
+I'm a Software Architect, Technical Lead, and CTO with **10+ years of experience** building scalable software and automating complex business processes.
 
+I help companies design, build, and scale digital products—from MVPs to enterprise-grade platforms.
 
-I have a strong background in backend development and experience using Vue.js for frontend. In addition to writing code,  **I am skilled at translating business requirements into functional products.** 
+## 🚀 What I do
 
-I am well-suited for fast-moving teams that need a full-stack developer with strong soft skills and experience in DevOps.
+- eCommerce solutions (Shopify, Allegro, Amazon, eMAG, Mirakl, WooCommerce)
+- ERP, WMS, PIM, CRM, and third-party API integrations
+- Business process automation
+- Backend architecture and API development
+- Custom web applications and internal admin tools
+- Data synchronization and migrations
+- AI-powered automation and intelligent workflows
+- Performance optimization and infrastructure
+- 
+## 🤝 How I work
+
+Beyond writing code, I enjoy solving business problems through technology.
+
+I'm comfortable taking ownership of architecture, leading development teams, communicating directly with stakeholders, and turning product ideas into scalable software.
+
+Whether it's a few hours of consulting, building an MVP, integrating complex systems, or becoming a long-term technical partner, I'm happy to help.
+
+📫 Feel free to reach out if you're looking for someone to build, improve, or automate your product.
