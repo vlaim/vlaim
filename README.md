@@ -14,7 +14,7 @@ I help companies design, build, and scale digital products—from MVPs to enterp
 - Data synchronization and migrations
 - AI-powered automation and intelligent workflows
 - Performance optimization and infrastructure
-- 
+
 ## 🤝 How I work
 
 Beyond writing code, I enjoy solving business problems through technology.
