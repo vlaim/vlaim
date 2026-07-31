@@ -1,12 +1,12 @@
 ### Hi, I'm Vladislav Alexeyev (@vlaim) 👋
 
-I'm a Software Architect, Technical Lead, and CTO with **10+ years of experience** building scalable software and automating complex business processes.
+I'm a Software Architect, Technical Lead and tech co-founder with **10+ years of experience** building scalable software and automating complex business processes.
 
 I help companies design, build, and scale digital products—from MVPs to enterprise-grade platforms.
 
 ## 🚀 What I do
 
-- eCommerce solutions (Shopify, Allegro, Amazon, eMAG, Mirakl, WooCommerce)
+- eCommerce solutions (Shopify, Allegro, Amazon, eMAG, WooCommerce)
 - ERP, WMS, PIM, CRM, and third-party API integrations
 - Business process automation
 - Backend architecture and API development
@@ -14,6 +14,8 @@ I help companies design, build, and scale digital products—from MVPs to enterp
 - Data synchronization and migrations
 - AI-powered automation and intelligent workflows
 - Performance optimization and infrastructure
+- Mobile applications
+- SDKs and APIs
 
 ## 🤝 How I work
 
